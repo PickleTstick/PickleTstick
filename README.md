@@ -5,6 +5,7 @@
 - 📫 How to reach me ...jake345 on discord
 - 😄 Pronouns: ... he him
 - ⚡ Fun fact: ... i do this for fun but im still learning
+- https://pickletstick.github.io/Portfolio/
 
 <!---
 PickleTstick/PickleTstick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
